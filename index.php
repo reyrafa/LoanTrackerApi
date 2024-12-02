@@ -26,11 +26,9 @@ For Logout
         Bearer Token : **token**
     }
     success response : {
-        token : **token**
+       message : successfully logged out
     }
-    error response: {
-        message: credentials do not match
-    }
+
 ==============================================================
 ==============================================================
 For Getting Branches with BM
